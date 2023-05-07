@@ -20,6 +20,13 @@ https://github.com/nihui/waifu2x-ncnn-vulkan
 | models-upconv_7_anime_style_art_rgb |  |
 | models-cunet                        |  |
 
+## RealSR Models
+https://github.com/nihui/realsr-ncnn-vulkan
+
+| Model Folder                        | Remark |
+| --- | --- |
+| models-DF2K               |  |
+| models-DF2K_JPEG |  |
 
 ## ESRGAN Models
 https://upscale.wiki/wiki/Model_Database
