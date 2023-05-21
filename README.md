@@ -44,4 +44,5 @@ https://upscale.wiki/wiki/Model_Database
 | models-ESRGAN-Dropout                                | 2x    | Anime             | sudo                                  | https://e1.pcloud.link/publink/show?code=kZ7rGRZW2IcOpNMQeXDTTRQ4aPVBFyyJV5X |
 | models-ESRGAN-Remacri                                | 4x    | General           | Foolhardy                             | https://u.pcloud.link/publink/show?code=kZgSLsXZ0M1fT3kFGfRXg2tNtoUgbSI4kcSy |
 | models-ESRGAN-UltraMix_Balanced                      | 4x    |                   | Kim2091                               | https://mega.nz/folder/3Jo2AAAa#4CGEwUM0dKu3kkaJa-qUIA                       |
+| models-ESRGAN-4x_Nickelback_70000G                   | 4x    | Photos            | BlackScout                            | https://drive.google.com/file/d/1d89zvzC6BKf5EKapBtc4MH2DX5GClKzl/view       |
 
