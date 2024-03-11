@@ -1,14 +1,10 @@
----
-tags:
-- Super-Resolution
-- ESRGAN
-- Waifu2x
----
+Since github limit downloading lfs files, I have upload the repo to huggingface again.
+[https://huggingface.co/tumuyan2/realsr-models](https://huggingface.co/tumuyan2/realsr-models)
 
 # Extra Models for RealSR-NCNN-Android
-[Available models](https://huggingface.co/tumuyan/realsr/tree/main)
+[Available models](https://huggingface.co/tumuyan2/realsr/tree/main)
 
-These are some models prepared for [RealSR-NCNN-Android](https://github.com/tumuyan/RealSR-NCNN-Android).  
+These are some models prepared for [RealSR-NCNN-Android](https://github.com/tumuyan2/RealSR-NCNN-Android).  
 You can download whichever directory you need.  
 
 ## Waifu2x Models
